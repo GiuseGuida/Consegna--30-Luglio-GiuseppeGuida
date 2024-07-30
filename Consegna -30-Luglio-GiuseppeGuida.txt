@@ -1,0 +1,47 @@
+128.1.6.5/12
+
+*  IP network:       128.1.0.0
+*  IP gateway conv:  128.1.0.1
+*  IP broadcast:     128.15.255.255
+*  host: 20 network: 12
+*  ottetti network:  3
+
+200.1.2.3/24 
+
+*  IP network:       200.1.2.0
+*  IP gateway conv:  128.1.2.1
+*  IP broadcast:     200.1.2.255
+*  host: 8 network:  24
+*  ottetti network:  1
+
+192.192.1.1/22 
+
+*  IP network:       192.192.0.0
+*  IP gateway conv:  192.192.0.1
+*  IP broadcast:     192.192.3.255
+*  host: 10 network: 22
+*  ottetti network:  2
+
+126.5.4.3/9
+
+*  IP network:       126.128.0.0
+*  IP gateway conv:  126.128.0.1
+*  IP broadcast:     126.128.255.255
+*  host: 23 network: 9
+*  ottetti network:  3
+
+200.1.9.8/24
+
+*  IP network:       200.1.9.0
+*  IP gateway conv:  200.1.9.1
+*  IP broadcast:     200.1.9.255
+*  host: 8 network:  24
+*  ottetti network:  3
+
+172.16.0.4/16
+
+*  IP network:       172.16.0.0
+*  IP gateway conv:  172.16.0.1
+*  IP broadcast:     172.16.255.255
+*  host: 16 network: 16
+*  ottetti network:  2
